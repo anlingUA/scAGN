@@ -1,0 +1,80 @@
+Dataset = GSE108989, Final Prediction is = 0.339118
+
+Dataset = GSE72056, Final Prediction is = 0.875996
+
+Dataset = GSE85241, Final Prediction is = 0.515625
+
+Dataset = GSE98638, Final Prediction is = 0.632701
+
+Dataset = GSE99254, Final Prediction is = 0.452886
+
+Dataset = GSE118389, Final Prediction is = 0.406250
+
+Dataset = GSE165092, Final Prediction is = 0.640493
+
+Dataset = GSE83139, Final Prediction is = 0.768212
+
+Dataset = GSE124952, Final Prediction is = 0.929751
+
+Dataset = TM, Final Prediction is = 0.858914
+
+Dataset = Tasic, Final Prediction is = 0.913876
+
+Dataset = Segerstolpe, Final Prediction is = 0.662085
+
+Dataset = Romanov, Final Prediction is = 0.873611
+
+Dataset = PBMC_68k, Final Prediction is = 0.748090
+
+Dataset = Mouse_retina, Final Prediction is = 0.816027
+
+Dataset = Klein, Final Prediction is = 0.945588
+
+Dataset = villani_mgh_covid19, Final Prediction is = 0.446468
+
+Dataset = shalek_nasal_epithelia_covid19, Final Prediction is = 0.528357
+
+Dataset = blish_pbmc_covid19, Final Prediction is = 0.623423
+
+Dataset = aldinger_fetal_cerebellum, Final Prediction is = 0.391141
+
+Dataset = popescu19_fetal_liver, Final Prediction is = 0.814037
+
+Dataset = madissoon_oesophagus, Final Prediction is = 0.737572
+
+Dataset = vento_placenta_10X, Final Prediction is = 0.811696
+
+Dataset = martin_ileum, Final Prediction is = 0.715958
+
+Dataset = guo_testis, Final Prediction is = 0.864429
+
+Dataset = warner_salivery_gland, Final Prediction is = 0.836241
+
+Dataset = madissoon_spleen, Final Prediction is = 0.333503
+
+Dataset = miller_fetal_lung, Final Prediction is = 0.856258
+
+Dataset = habib_brain, Final Prediction is = 0.624809
+
+Dataset = voigt_retina, Final Prediction is = 0.953875
+
+Dataset = james_colon_immune, Final Prediction is = 0.639551
+
+Dataset = stewart_kidney, Final Prediction is = 0.554331
+
+Dataset = menon_retina10xV3, Final Prediction is = 0.793509
+
+Dataset = byrd_gingiva, Final Prediction is = 0.652070
+
+Dataset = wang_rectum, Final Prediction is = 0.727081
+
+Dataset = wang_colon, Final Prediction is = 0.626617
+
+Dataset = henry_prostate, Final Prediction is = 0.808384
+
+Dataset = wang_ileum, Final Prediction is = 0.822311
+
+Dataset = smillie_colon_epithelial, Final Prediction is = 0.350368
+
+Dataset = macparland18_adult_liver, Final Prediction is = 0.859782
+
