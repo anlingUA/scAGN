@@ -44,7 +44,9 @@ mkdir gene-cn-output
 2. Download dataset. Dataset needs to be download to ~/scAGN/RScript/scData
 
 ```
+cd  ~/scAGN/RScript/scData
 wget <add-url>
+./create_dir.sh
 
 ```
 
