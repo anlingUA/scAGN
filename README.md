@@ -61,7 +61,7 @@ cd scAGN/RScript/
 
 ```
 cd ~
-~/scAGN/python/graph_AGN.py -i 128 -l 5 -d 0.0 -t 0.05 -r 0.1 -w 0.0000 -s 10 -G 0.8 -D GSE108989 -P 2000 > ~/scAGN/script/GRAPH_agn_4_GSE108989$now.txt
+~/scAGN/python/graph_AGN.py -i 128 -l 5 -d 0.0 -t 0.05 -r 0.1 -w 0.0000 -s 10 -G 0.8 -D GSE108989 -P 2000 > ~/scAGN/script/GRAPH_agn_4_GSE108989.txt
 ```
 
 4. Run baseline methods
