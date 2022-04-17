@@ -57,7 +57,7 @@ cd scAGN/RScript/
 ./graph_generation.sh
 ```
 
-3. Run scAGN on all datasets
+3. Run scAGN on GSE108989
 
 ```
 cd ~
